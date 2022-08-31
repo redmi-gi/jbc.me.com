@@ -1,3 +1,2 @@
 # jbc.me.com
-- Hi it`s my first do that.
-- nmm
+- Tis is for do some test web.
